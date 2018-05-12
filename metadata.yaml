@@ -1,0 +1,31 @@
+_repo: Viajes-por-Europa-y-Am-rica_13492
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petano y Mazariegos, Gorgonio
+    alias: Mazariegos, Gorgonio Petano y
+    gutenberg_agent_id: '5079'
+    url: http://www.gutenberg.org/2009/agents/5079
+description: ''
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13492'
+  lccn: '10000369'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'G'
+- !lcsh 'South America -- Description and travel'
+tableOfContents: A mi querido amigo el Sr. D. G. Petano y Mazariegos [por P. de la
+  Escosura] -- De como un prólogo es á veces necesario -- Españo -- Francia --
+  Paris -- Suiza -- Berna -- Inglaterra -- Italia -- Turin -- Alemania -- Viena --
+  Portugal -- América -- Brasil -- Buenos-Aires y Montevideo -- Impresiones generales.
+title: Viajes por Europa y América
+url: http://www.gutenberg.org/ebooks/13492
